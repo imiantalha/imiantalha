@@ -21,10 +21,10 @@ Currently a Software Engineer at MindBlaze Technologies in Lahore. Open to softw
 
 Most of my professional code is company-owned. The [portfolio](https://imiantalha.vercel.app/) covers sanitized case studies, including:
 
-- **Mallshark** — multi-vendor marketplace: payments, shipping, search, versioned mobile APIs, queues, and a product-detail API reduced from ~2–3s to ~0.5s
-- **Textile Souk** — API-first B2B backend with MySQL + MS SQL Server pricing/stock data, Firebase notifications, and Zendesk
-- **Employee Management System** — Laravel + Next.js HR workflows with Sanctum and RBAC
-- **Pak Railways Tender Workflow** — enterprise tenders, bids, reporting, and bulk imports
+- **[Mallshark](https://imiantalha.vercel.app/projects/mallshark)** — multi-vendor marketplace: payments, shipping, search, versioned mobile APIs, queues, and a product-detail API reduced from ~2–3s to ~0.5s
+- **[Textile Souk](https://imiantalha.vercel.app/projects/textile-souk)** — API-first B2B backend with MySQL + MS SQL Server pricing/stock data, Firebase notifications, and Zendesk
+- **[Employee Management System](https://imiantalha.vercel.app/projects/employee-management-system)** — Laravel + Next.js HR workflows with Sanctum and RBAC
+- **[Pak Railways Tender Workflow](https://imiantalha.vercel.app/projects/pak-railways-tender-workflow)** — enterprise tenders, bids, reporting, and bulk imports
 
 ### Public repositories
 
