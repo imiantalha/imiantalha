@@ -1,75 +1,113 @@
 # Hi, I'm Muhammad Talha
 
-**Software Engineer | Backend-focused full stack | PHP • Laravel • REST APIs**
+**Software Engineer | Backend-focused Full Stack | PHP • Laravel • REST APIs • React • Next.js**
 
-I build production applications: APIs, databases, integrations, background processing, and the operational work that keeps systems running. I also work with React and Next.js when a product needs end-to-end delivery.
+I build production applications and developer-focused products with a strong focus on backend architecture, REST APIs, databases, integrations, background processing, testing, performance, and deployment. I also work across React and Next.js when a product needs end-to-end delivery.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-imiantalha.vercel.app-111827?style=flat-square)](https://imiantalha.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imiantalha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imiantalha/)
 [![GitHub](https://img.shields.io/badge/GitHub-imiantalha-181717?style=flat-square&logo=github)](https://github.com/imiantalha)
 [![Email](https://img.shields.io/badge/Email-muhammadtalha.codes-111827?style=flat-square)](mailto:muhammadtalha.codes@gmail.com)
 
-## About
+## About Me
 
-- Currently working on production Laravel/PHP systems at **MindBlaze Technologies** in Lahore
-- Strongest in **REST APIs, databases, authentication, RBAC, queues, and integrations**
-- Open to software engineering roles, product work, and technical collaboration
-- Portfolio and case studies: **[imiantalha.vercel.app](https://imiantalha.vercel.app/)**
-- Ask me about **Laravel, API versioning, query optimization, webhooks, and production debugging**
-- Email: **muhammadtalha.codes@gmail.com**
+- Software Engineer with **3 years of professional experience** building production systems
+- Backend-focused with **PHP, Laravel, REST APIs, MySQL, PostgreSQL, and SQL Server**
+- Full-stack experience with **React, Next.js, TypeScript, Vite, and Tailwind CSS**
+- Experience across **e-commerce, B2B marketplaces, HR platforms, enterprise workflows, and scheduling systems**
+- Strong focus on **API design, authentication, RBAC, database optimization, queues, webhooks, integrations, testing, and production debugging**
+- Currently building and improving real-world software while expanding into **Docker, cloud infrastructure, and CI/CD**
 
-## Professional summary
+## Professional Summary
 
-Backend-focused Software Engineer with 3 years of professional experience building and maintaining production applications in e-commerce, B2B, HR, and enterprise workflows.
+Backend-focused Software Engineer experienced in designing, developing, optimizing, and maintaining production applications. I enjoy turning business requirements into reliable APIs and maintainable systems, investigating performance bottlenecks, integrating third-party services, and building workflows that remain dependable as applications grow.
 
-Most of my professional code is proprietary. I show that work through [sanitized case studies](https://imiantalha.vercel.app/projects) and public repositories rather than private company source.
+Most of my professional work is proprietary. I demonstrate that experience through sanitized case studies and public projects where I can share the implementation openly.
 
-## Availability
+## Featured Project — Timetable Management System
 
-- Open to software engineering roles and serious product work
-- Comfortable with remote, onsite, and hybrid collaboration from Lahore
-- Interested in Laravel/API systems, integrations, and full-stack delivery when the product needs it
+### [Timetable](https://github.com/imiantalha/timetable)
 
-## Engineering practices
+A modern **academic timetable management and scheduling system** designed to automate timetable creation, detect scheduling conflicts, and provide an interactive timetable-building workflow.
 
-- Versioned REST APIs so older clients keep working
-- Investigate queries, logs, and request flow before optimizing
-- Move expensive work to queues, jobs, and chunked processing
-- Ship with validation, authorization, tests, and code review
-- Support systems after release: debugging, hot-fixes, and maintenance
+**Key engineering concepts:**
 
-## Selected work
+- Automated timetable generation
+- Constraint-aware scheduling
+- Teacher, room, section, course, and time-slot management
+- Conflict detection and validation
+- Interactive drag-and-drop timetable builder
+- Optimistic UI updates with rollback on failed moves
+- Draft timetable review and publishing workflow
+- RESTful API architecture
+- Role-based administrative workflows
+- Laravel backend with Next.js frontend
 
-| Project | What I worked on |
+**Tech stack:** **Laravel 13 • PHP • MySQL • REST APIs • Sanctum • Next.js • React • TypeScript • Tailwind CSS**
+
+**Why it matters:** This project demonstrates practical backend architecture, scheduling logic, database relationships, API design, validation, frontend state management, and the kind of business rules required in real-world enterprise software.
+
+## Selected Professional Work
+
+| Project | Engineering Focus |
 | --- | --- |
-| [Mallshark](https://imiantalha.vercel.app/projects/mallshark) | Multi-vendor marketplace: payments, shipping, search, versioned mobile APIs, queues. One product-detail API went from ~2–3s to ~0.5s. |
-| [Textile Souk](https://imiantalha.vercel.app/projects/textile-souk) | API-first B2B backend with MySQL + MS SQL Server pricing/stock data, Firebase notifications, and Zendesk. |
-| [Employee Management System](https://imiantalha.vercel.app/projects/employee-management-system) | Laravel + Next.js HR workflows with Sanctum and RBAC. |
-| [Pak Railways Tender Workflow](https://imiantalha.vercel.app/projects/pak-railways-tender-workflow) | Enterprise tenders, bids, reporting, and bulk imports. |
+| [Mallshark](https://imiantalha.vercel.app/projects/mallshark) | Multi-vendor marketplace, payments, shipping, search, versioned APIs, queues, and performance optimization. |
+| [Textile Souk](https://imiantalha.vercel.app/projects/textile-souk) | API-first B2B marketplace with MySQL + MS SQL Server integration, pricing/stock workflows, notifications, and Zendesk. |
+| [Employee Management System](https://imiantalha.vercel.app/projects/employee-management-system) | Laravel + Next.js HR workflows, Sanctum authentication, RBAC, APIs, and business workflows. |
+| [Pak Railways Tender Workflow](https://imiantalha.vercel.app/projects/pak-railways-tender-workflow) | Enterprise tender management, bids, reporting, roles/permissions, search, and bulk imports. |
 
-### Public repositories
+## Public Projects
 
-| Repository | What it shows |
+| Repository | What it demonstrates |
 | --- | --- |
-| [portfolio](https://github.com/imiantalha/portfolio) | This site: Next.js, TypeScript, engineering case studies |
-| [weblogr](https://github.com/imiantalha/weblogr) | Core PHP blogging platform: auth, Google OAuth, CSRF, moderation |
-| [attendance-management-system](https://github.com/imiantalha/attendance-management-system) | Laravel HR app: Sanctum, RBAC, versioned APIs, tests |
-| [blossom-glimmer-api](https://github.com/imiantalha/blossom-glimmer-api) | Laravel API: Sanctum, roles/permissions, queued email |
+| [Timetable](https://github.com/imiantalha/timetable) | Laravel + Next.js scheduling platform with timetable generation, conflict detection, drag-and-drop editing, and publishing. |
+| [Portfolio](https://github.com/imiantalha/portfolio) | Next.js, TypeScript, responsive UI, engineering case studies, and developer portfolio architecture. |
+| [Weblogr](https://github.com/imiantalha/weblogr) | Core PHP blogging platform with authentication, Google OAuth, CSRF protection, moderation, and content workflows. |
+| [Attendance Management System](https://github.com/imiantalha/attendance-management-system) | Laravel HR application with Sanctum, RBAC, versioned APIs, and automated tests. |
+| [Blossom Glimmer API](https://github.com/imiantalha/blossom-glimmer-api) | Laravel API with authentication, roles/permissions, and queued email workflows. |
 
-## Tech stack
+## Technical Skills
 
-**Backend:** PHP, Laravel, REST APIs, Sanctum, Passport  
-**Data:** MySQL, PostgreSQL, MS SQL Server  
-**Application:** Auth, RBAC, queues, jobs, webhooks, PHPUnit  
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Blade  
-**Delivery:** Git, Docker, Nginx, Vercel
+### Backend
 
-CI/CD automation and deeper cloud infrastructure are areas I am actively developing.
+**PHP • Laravel • REST APIs • MVC • OOP • SOLID • API Versioning • Sanctum • Passport • Authentication • RBAC • Queues • Jobs • Events • Webhooks • PHPUnit**
+
+### Databases & Search
+
+**MySQL • PostgreSQL • Microsoft SQL Server • Database Design • Query Optimization • Indexing • Transactions • Meilisearch • Algolia**
+
+### Frontend
+
+**React • Next.js • TypeScript • JavaScript • Vite • Tailwind CSS • Blade • Responsive UI**
+
+### Integrations
+
+**Stripe • PayPal • Crypto.com • Firebase FCM • FedEx • USPS • ShipStation • Shopify • Zendesk • Google OAuth**
+
+### Tools & Delivery
+
+**Git • GitHub • Bitbucket • Docker • Nginx • Vercel • Railway • Postman • Composer • npm/pnpm**
+
+## Engineering Approach
+
+- Design APIs around clear contracts and backward compatibility
+- Use validation, authorization, transactions, and automated tests around business-critical workflows
+- Investigate logs, queries, request flow, and database behavior before optimizing
+- Move expensive or failure-prone work to queues and background jobs
+- Prefer maintainable architecture using SOLID principles and modular boundaries
+- Build integrations with webhook handling, retries, and failure recovery in mind
+- Treat production debugging and observability as part of software development
+- Keep frontend and backend responsibilities clear while delivering complete features end-to-end
+
+## What I'm Building Toward
+
+I'm continuing to deepen my skills in **software architecture, distributed systems, Docker, CI/CD, cloud infrastructure, system performance, and scalable backend engineering** while building practical products that solve real business problems.
 
 ## Connect
 
-If you are hiring a software engineer or need help with a Laravel/API product:
+If you're hiring a software engineer, building a Laravel/API product, or interested in collaborating on a technical project:
 
-- Portfolio: [imiantalha.vercel.app](https://imiantalha.vercel.app/)
-- Email: [muhammadtalha.codes@gmail.com](mailto:muhammadtalha.codes@gmail.com)
-- LinkedIn: [linkedin.com/in/imiantalha](https://www.linkedin.com/in/imiantalha/)
+- **Portfolio:** [imiantalha.vercel.app](https://imiantalha.vercel.app/)
+- **Email:** [muhammadtalha.codes@gmail.com](mailto:muhammadtalha.codes@gmail.com)
+- **LinkedIn:** [linkedin.com/in/imiantalha](https://www.linkedin.com/in/imiantalha/)
+- **GitHub:** [github.com/imiantalha](https://github.com/imiantalha)
