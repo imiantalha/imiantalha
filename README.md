@@ -24,6 +24,54 @@ Backend-focused Software Engineer experienced in designing, developing, optimizi
 
 Most of my professional work is proprietary. I demonstrate that experience through sanitized case studies and public projects where I can share the implementation openly.
 
+## Featured Project — Blossom Glimmer
+
+### 🛍️ [Blossom Glimmer](https://github.com/imiantalha/blossom-glimmer)
+
+A **production-oriented multi-vendor e-commerce marketplace** built to demonstrate how a modern storefront can be structured around real-world commerce workflows rather than a simple product catalog.
+
+**Live:** [blossom-glimmers.vercel.app](https://blossom-glimmers.vercel.app/)
+
+**What it demonstrates:**
+
+- 🛒 Product discovery, search, filtering, sorting, pagination, and responsive shopping UX
+- 🎨 Product variants, attributes, SKU and inventory-aware product experiences
+- ❤️ Wishlist and customer account workflows
+- 🔐 Authentication, protected customer areas, and role-aware architecture
+- 📦 Cart, checkout preparation, order and fulfillment experiences
+- 🚚 Shipping, tracking, delivery and fulfillment UX boundaries
+- ⭐ Product reviews and ratings architecture
+- 🏪 Multi-vendor storefront and marketplace-ready architecture
+- 🔔 Notification-ready customer experience
+- 📱 Responsive, accessible and mobile-first commerce interfaces
+- 🔎 SEO-focused public pages, metadata, structured data, sitemap and robots configuration
+- 🧩 Typed API/service architecture designed for a Laravel REST backend
+- 🛡️ Typed fallback and API-unavailable behavior so the frontend remains buildable without Laravel being reachable during build time
+
+**Tech stack:** **Next.js • React • TypeScript • Tailwind CSS • Laravel REST API • PostgreSQL/Prisma architecture • Vercel**
+
+**Architecture:**
+
+```text
+Customer / Browser
+       ↓
+Next.js App Router
+       ↓
+Feature Components + Hooks / Context
+       ↓
+Domain Services
+       ↓
+Central API Client
+       ↓
+Laravel REST API
+       ↓
+Database / Commerce Services
+```
+
+**Why it matters:** Blossom Glimmer showcases my ability to work across **frontend architecture, e-commerce domain modeling, API integration, state management, responsive UX, SEO, accessibility, fallback design, and production deployment concerns** while keeping backend and frontend responsibilities clearly separated.
+
+> **Engineering highlight:** The project is intentionally designed to evolve into a complete marketplace without repeatedly rebuilding the same commerce foundations. Shared domain types, services, API boundaries, reusable UI, and typed fallback behavior keep the system maintainable as new capabilities are added.
+
 ## Featured Project — Timetable Management System
 
 ### [Timetable](https://github.com/imiantalha/timetable)
@@ -60,6 +108,7 @@ A modern **academic timetable management and scheduling system** designed to aut
 
 | Repository | What it demonstrates |
 | --- | --- |
+| [Blossom Glimmer](https://github.com/imiantalha/blossom-glimmer) | Multi-vendor e-commerce frontend with product discovery, variants, inventory-aware UX, cart, customer account, checkout/order flows, shipping/fulfillment boundaries, SEO, accessibility, and Laravel API integration. |
 | [Timetable](https://github.com/imiantalha/timetable) | Laravel + Next.js scheduling platform with timetable generation, conflict detection, drag-and-drop editing, and publishing. |
 | [Portfolio](https://github.com/imiantalha/portfolio) | Next.js, TypeScript, responsive UI, engineering case studies, and developer portfolio architecture. |
 | [Weblogr](https://github.com/imiantalha/weblogr) | Core PHP blogging platform with authentication, Google OAuth, CSRF protection, moderation, and content workflows. |
