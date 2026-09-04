@@ -132,6 +132,12 @@ A Core PHP/MySQL blogging platform focused on secure authentication and practica
 
 **Stack:** **PHP • MySQL • MySQLi • PHPMailer • OAuth2/OIDC • GitHub Actions**
 
+### 🧮 [Scientific Calculator](https://github.com/imiantalha/scientific-calculator)
+
+A **Core PHP scientific calculator** demonstrating PHP fundamentals, mathematical operations, input handling, and server-side application logic.
+
+**Stack:** **Core PHP • HTML • CSS**
+
 ### 💼 [Portfolio](https://github.com/imiantalha/portfolio)
 
 Personal developer portfolio built with a modern React-based stack, featuring responsive UI, engineering case studies, and production deployment.
