@@ -2,159 +2,193 @@
 
 # Muhammad Talha
 
-### Backend-Focused Full-Stack Software Engineer
+**Backend-Focused Full-Stack Engineer**  
+`Laravel` · `PHP` · `React` · `Next.js` · `TypeScript`
 
-**Laravel / PHP · React / Next.js · REST APIs · Databases · Production Systems**
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://imiantalha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imiantalha/)
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadtalha.codes@gmail.com)
 
-*Build the system. Ship the interface. Own the outcome.*
+</div>
 
-[Portfolio](https://imiantalha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/imiantalha/) · [GitHub](https://github.com/imiantalha) · [Email](mailto:muhammadtalha.codes@gmail.com)
+---
+
+## `01` · GitHub Telemetry
+
+<div align="center">
+
+<a href="https://github.com/imiantalha">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imiantalha&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github&custom_title=GitHub%20Overview">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=imiantalha&show_icons=true&include_all_commits=true&hide_border=true&theme=default&rank_icon=github&custom_title=GitHub%20Overview">
+  <img height="170" alt="GitHub overview" src="https://github-readme-stats.vercel.app/api?username=imiantalha&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github&custom_title=GitHub%20Overview">
+</picture>
+</a>
+
+<a href="https://github.com/imiantalha">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imiantalha&layout=compact&langs_count=8&hide_border=true&theme=github_dark&custom_title=Code%20Distribution">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imiantalha&layout=compact&langs_count=8&hide_border=true&theme=default&custom_title=Code%20Distribution">
+  <img height="170" alt="Language distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imiantalha&layout=compact&langs_count=8&hide_border=true&theme=github_dark&custom_title=Code%20Distribution">
+</picture>
+</a>
+
+<br>
+
+<a href="https://github.com/imiantalha">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imiantalha&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imiantalha&theme=github">
+  <img alt="GitHub contribution heatmap and activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imiantalha&theme=github_dark">
+</picture>
+</a>
+
+<br>
+
+<a href="https://github.com/imiantalha">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=imiantalha&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=imiantalha&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area=true&hide_border=true&custom_title=Contribution%20Activity">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=imiantalha&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity">
+</picture>
+</a>
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/imiantalha?label=Followers&style=flat-square" alt="Followers">
+  <img src="https://img.shields.io/github/stars/imiantalha?affiliations=OWNER&label=Stars%20received&style=flat-square" alt="Stars received">
+  <img src="https://img.shields.io/github/repos/imiantalha?label=Public%20repos&style=flat-square" alt="Public repositories">
+</p>
+
+---
+
+## `02` · Build Surface
+
+<div align="center">
+
+**BACKEND**  ·  `PHP` `Laravel` `REST API` `Sanctum` `RBAC` `Queues` `Webhooks`
+
+**FRONTEND**  ·  `React` `Next.js` `TypeScript` `JavaScript` `Vite` `Tailwind CSS`
+
+**DATA**  ·  `MySQL` `PostgreSQL` `SQL Server` `MongoDB` `Prisma`
+
+**SHIP**  ·  `Docker` `Nginx` `GitHub Actions` `Vercel` `Railway`
 
 </div>
 
 ---
 
-## ⚡ Engineering Snapshot
+## `03` · Selected Builds
 
-Software Engineer with **3 years of professional experience** building business applications across e-commerce, B2B marketplaces, HR platforms, and enterprise workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I work end-to-end — from **database design and Laravel APIs to React/Next.js interfaces, integrations, background jobs, testing, and deployment**.
+<a href="https://github.com/imiantalha/timetable">
+<img src="https://opengraph.githubassets.com/1/imiantalha/timetable" alt="Smart Timetable project preview">
+</a>
 
-**Strongest areas:** Laravel/PHP · REST APIs · MySQL/PostgreSQL/SQL Server · React/Next.js · Authentication/RBAC · Queues · Integrations · Performance
+### 🧠 Smart Timetable
 
-### GitHub Activity
+**Constraint-aware academic scheduling.**
+
+Laravel API + Next.js interface for availability, conflict detection, generation, drag/drop editing, and publishing.
+
+`Laravel 13` `PostgreSQL` `Redis` `Next.js` `TypeScript`
+
+[![Stars](https://img.shields.io/github/stars/imiantalha/timetable?style=flat-square&label=stars)](https://github.com/imiantalha/timetable)
+[![Forks](https://img.shields.io/github/forks/imiantalha/timetable?style=flat-square&label=forks)](https://github.com/imiantalha/timetable)
+
+[Repository →](https://github.com/imiantalha/timetable)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/imiantalha/weblogr">
+<img src="https://opengraph.githubassets.com/1/imiantalha/weblogr" alt="Weblogr project preview">
+</a>
+
+### 🔐 Weblogr
+
+**Security-focused Core PHP platform.**
+
+Blogging application with OAuth/OIDC + PKCE, CSRF protection, moderation, notifications, MySQL, API-backed discovery, and CI validation.
+
+`PHP` `MySQL` `OAuth2/OIDC` `MySQLi`
+
+[![Stars](https://img.shields.io/github/stars/imiantalha/weblogr?style=flat-square&label=stars)](https://github.com/imiantalha/weblogr)
+[![Forks](https://img.shields.io/github/forks/imiantalha/weblogr?style=flat-square&label=forks)](https://github.com/imiantalha/weblogr)
+
+[Repository →](https://github.com/imiantalha/weblogr) · [Live →](https://weblogr.up.railway.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/imiantalha/blossom-glimmer-api">
+<img src="https://opengraph.githubassets.com/1/imiantalha/blossom-glimmer-api" alt="Blossom Glimmer API project preview">
+</a>
+
+### 🛍️ Blossom Glimmer API
+
+**Multi-vendor commerce backend.**
+
+Laravel REST API with Sanctum authentication, RBAC, service/repository architecture, request logging, and queued email workflows.
+
+`Laravel 12` `PHP` `Sanctum` `MongoDB` `PHPUnit`
+
+[![Stars](https://img.shields.io/github/stars/imiantalha/blossom-glimmer-api?style=flat-square&label=stars)](https://github.com/imiantalha/blossom-glimmer-api)
+[![Forks](https://img.shields.io/github/forks/imiantalha/blossom-glimmer-api?style=flat-square&label=forks)](https://github.com/imiantalha/blossom-glimmer-api)
+
+[Repository →](https://github.com/imiantalha/blossom-glimmer-api)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/imiantalha/scientific-calculator">
+<img src="https://opengraph.githubassets.com/1/imiantalha/scientific-calculator" alt="Scientific Calculator project preview">
+</a>
+
+### 🧮 Scientific Calculator
+
+**Core PHP expression engine.**
+
+Scientific calculations with server-side parsing and mathematical evaluation without `eval()`.
+
+`Core PHP` `HTML` `CSS`
+
+[![Stars](https://img.shields.io/github/stars/imiantalha/scientific-calculator?style=flat-square&label=stars)](https://github.com/imiantalha/scientific-calculator)
+
+[Repository →](https://github.com/imiantalha/scientific-calculator)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` · Engineering Signals
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imiantalha&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&custom_title=Engineering%20Stats)](https://github.com/imiantalha)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imiantalha&layout=compact&hide_border=true&theme=transparent&langs_count=8&custom_title=Repository%20Language%20Mix)](https://github.com/imiantalha)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=imiantalha&hide_border=true&theme=transparent&mode=weekly)](https://github.com/imiantalha)
-
-[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=imiantalha&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20Contribution%20Activity)](https://github.com/imiantalha)
+| | Signal |
+|---|---|
+| ⚡ | **~0.5s** optimized API operation from roughly 2–3s through indexing/query optimization |
+| 🔗 | **Versioned APIs** for backward-compatible client integrations |
+| 🧵 | **Queues + workers + scheduled jobs + webhooks** in application workflows |
+| 🔐 | **Auth + RBAC + policies + OAuth** across API-driven systems |
+| 🗄️ | **MySQL + PostgreSQL + SQL Server** in production systems |
 
 </div>
 
-> The dashboard above is generated from GitHub activity rather than manually entered numbers. Public repository statistics are shown; private repository activity may not appear in third-party cards.
-
----
-
-## 🧭 What I Build
-
-| Backend & Systems | Frontend & Product |
-| --- | --- |
-| Laravel / PHP applications | React & Next.js applications |
-| REST APIs & versioned contracts | TypeScript & JavaScript |
-| Authentication, RBAC & policies | Reusable component-driven UI |
-| Queues, jobs, events & webhooks | Forms, validation & API state |
-| Database design & query optimization | Responsive, accessible experiences |
-| Payments, shipping & third-party APIs | SEO-aware web applications |
-
-**Production focus:** business rules, data-heavy workflows, reliability, performance, and maintainable architecture.
-
----
-
-## 🚀 Featured Engineering Work
-
-### 01 · [Smart Timetable](https://github.com/imiantalha/timetable)
-
-**Constraint-aware academic scheduling platform** built across Laravel and Next.js.
-
-- **Problem:** University scheduling requires resources, availability, conflicts, manual adjustments, and publishing workflows.
-- **Built:** Scheduling domain, generation APIs, availability constraints, conflict validation, interactive editing, and rollback-safe UI updates.
-- **Technical signal:** Domain-heavy business logic + optimization-oriented backend + modern full-stack UI.
-- **Stack:** Laravel 13 · PHP · PostgreSQL · Redis · Next.js · React · TypeScript · Tailwind · Docker · GitHub Actions
-
-### 02 · [Weblogr](https://github.com/imiantalha/weblogr)
-
-**Core PHP/MySQL publishing platform** evolved into a security-focused application.
-
-- **Built:** Authentication, moderation, notifications, search, publishing workflows, and API-backed discovery.
-- **Security:** OAuth2/OIDC, PKCE, CSRF protection, session security, login throttling, prepared statements, upload validation, and output escaping.
-- **Technical signal:** Strong PHP fundamentals with security, database, CI, and deployment concerns.
-- **Live:** [weblogr.up.railway.app](https://weblogr.up.railway.app/)
-- **Stack:** PHP · MySQL/MariaDB · MySQLi · PHPMailer · OAuth2/OIDC · GitHub Actions
-
-### 03 · [Blossom Glimmer API](https://github.com/imiantalha/blossom-glimmer-api)
-
-**Laravel REST API** for a multi-vendor commerce application.
-
-- **Built:** Sanctum authentication, roles/permissions, service/repository layers, request logging, and queued email workflows.
-- **Technical signal:** API architecture, authorization boundaries, background processing, and testable application services.
-- **Stack:** Laravel 12 · PHP · Sanctum · Spatie Permission · MongoDB · PHPUnit · Vite
-
-### 04 · [Portfolio](https://github.com/imiantalha/portfolio)
-
-A production-focused developer portfolio built with a modern React ecosystem.
-
-- **Built:** Responsive UI, engineering case studies, project presentation, and production deployment.
-- **Stack:** Next.js · React · TypeScript · Tailwind CSS · Vercel
-
-### 05 · [Scientific Calculator](https://github.com/imiantalha/scientific-calculator)
-
-A Core PHP calculator demonstrating parsing, mathematical operations, input handling, and server-side logic without relying on `eval()`.
-
-- **Stack:** Core PHP · HTML · CSS
-
----
-
-## 📈 Engineering Evidence
-
-- ⚙️ Reduced a production API operation from roughly **2–3s to ~0.5s** through indexing and query optimization.
-- 🔗 Designed **versioned API contracts** for backward-compatible client integrations.
-- 🧵 Built workflows using **queues, workers, scheduled tasks, webhooks, and third-party integrations**.
-- 🗄️ Worked across **MySQL, PostgreSQL, and SQL Server** in production systems.
-- 🔐 Implemented **Sanctum authentication, RBAC, policies, OAuth, and protected API workflows**.
-- 🔄 Delivered features across **database → API → frontend → testing → deployment**, not just a single application layer.
-
----
-
-## 🛠️ Technology Map
-
-**Languages**  
-`PHP` `TypeScript` `JavaScript` `SQL`
-
-**Backend**  
-`Laravel` `REST APIs` `MVC` `OOP` `SOLID` `Sanctum` `Queues` `Jobs` `Webhooks`
-
-**Frontend**  
-`React` `Next.js` `Vite` `Tailwind CSS` `Blade`
-
-**Databases**  
-`MySQL` `PostgreSQL` `SQL Server` `MongoDB` `Prisma`
-
-**DevOps & Tools**  
-`Docker` `Nginx` `GitHub Actions` `Vercel` `Railway` `Git` `Postman` `Composer` `npm` `pnpm`
-
-**Integrations**  
-`Stripe` `PayPal` `Firebase FCM` `FedEx` `USPS` `ShipStation` `Shopify` `Google OAuth` `Algolia` `Meilisearch`
-
----
-
-## 🏢 Production Domain Experience
-
-**E-commerce** · Multi-vendor marketplaces · Payments · Shipping · Inventory · Search  
-**B2B** · Customer/region pricing · Orders · Inquiries · Shipments & cargo  
-**Enterprise** · HR workflows · Tender/bid management · RBAC · Reporting · Bulk operations  
-**Platform engineering** · APIs · Queues · Database optimization · Notifications · Integrations
-
-Selected professional work and case studies are available on my [portfolio](https://imiantalha.vercel.app/).
-
----
-
-## 🎯 Currently Focused On
-
-Deepening practical skills in **software architecture, performance, reliability, Docker, CI/CD, cloud infrastructure, and background/distributed processing** while continuing to build useful products.
-
-**Open to:** Software Engineer · Backend Engineer · Laravel/PHP Developer · Backend-Focused Full-Stack Engineer
-
 ---
 
 <div align="center">
 
-### Let's build something useful.
+`BUILD` → `MEASURE` → `IMPROVE` → `SHIP`
 
-[Portfolio](https://imiantalha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/imiantalha/) · [GitHub](https://github.com/imiantalha)
+[Portfolio](https://imiantalha.vercel.app/) · [GitHub](https://github.com/imiantalha)
 
 </div>
