@@ -2,107 +2,167 @@
 
 # Muhammad Talha
 
-**Software Engineer · Backend-first Full Stack**
+### Software Engineer · Backend-first Full Stack
 
-I build web products and backend systems with **PHP, Laravel, React, and Next.js** — from API design and data modelling to the interface and deployment.
+**PHP · Laravel · React · Next.js · REST APIs**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://imiantalha.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imiantalha/)
-[![Email](https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadtalha.codes@gmail.com)
+I build production-oriented web systems where **backend architecture, data, business rules, and product UX** have to work together.
+
+<br />
+
+<a href="https://imiantalha.vercel.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/imiantalha/">LinkedIn</a> ·
+<a href="mailto:muhammadtalha.codes@gmail.com">Email</a>
 
 </div>
 
 ---
 
-### What I build
-
-**APIs & backend systems** · **marketplaces & SaaS** · **workflow applications** · **data-heavy products**
-
-My strongest work is around Laravel/PHP applications where business rules, API contracts, authorization, database design, integrations, and background processing matter.
-
-### Featured work
+## At a glance
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/imiantalha/timetable">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imiantalha&repo=timetable&hide_border=true&theme=default" alt="Smart Timetable repository card">
-</a>
+**Backend**
 
-**Smart Timetable**  
-Academic scheduling with constraint-aware generation, conflict validation, interactive editing, and publishing workflows.
-
-`Laravel` `Next.js` `PostgreSQL` `Redis`
+Laravel · PHP · REST APIs · Authentication · RBAC · Policies · Queues · Webhooks
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/imiantalha/weblogr">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imiantalha&repo=weblogr&hide_border=true&theme=default" alt="Weblogr repository card">
-</a>
+**Frontend**
 
-**Weblogr**  
-Core PHP application focused on secure authentication, OAuth/OIDC + PKCE, CSRF protection, moderation, and CI validation.
-
-`PHP` `MySQL` `OAuth/OIDC`
+React · Next.js · TypeScript · JavaScript · Vite · Tailwind CSS · Blade
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/imiantalha/blossom-glimmer-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imiantalha&repo=blossom-glimmer-api&hide_border=true&theme=default" alt="Blossom Glimmer API repository card">
-</a>
+**Data & infrastructure**
 
-**Blossom Glimmer API**  
-Marketplace backend covering authentication, RBAC, policies, service/repository architecture, request logging, queues, and tests.
-
-`Laravel` `Sanctum` `MongoDB` `PHPUnit`
+MySQL · PostgreSQL · SQL Server · MongoDB · Redis · Docker · Nginx
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/imiantalha/scientific-calculator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imiantalha&repo=scientific-calculator&hide_border=true&theme=default" alt="Scientific Calculator repository card">
-</a>
+**How I work**
 
-**Scientific Calculator**  
-A small Core PHP project with server-side expression parsing and mathematical evaluation without `eval()`.
-
-`PHP` `HTML` `CSS`
+API-first design · modular architecture · testing · CI/CD · performance tuning
 
 </td>
 </tr>
 </table>
 
-### Engineering notes
+---
 
-- Reduced a representative API operation from **~2–3s to ~0.5s** through indexing and query optimization.
-- Built versioned REST APIs with authentication, authorization, RBAC, policies, and integrations.
-- Used queues, workers, scheduled jobs, webhooks, and caching for asynchronous application workflows.
-- Worked across MySQL, PostgreSQL, SQL Server, and MongoDB in database-driven systems.
+## Selected work
 
-### Toolbox
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
+### Smart Timetable
 
-<img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,ts,js,tailwind,mysql,postgres,redis,mongodb,docker,nginx,githubactions" alt="Technology stack" />
+<a href="https://github.com/imiantalha/timetable">
+<img src="https://opengraph.githubassets.com/1/imiantalha/timetable" alt="Smart Timetable" width="100%" />
+</a>
 
-</p>
+A scheduling platform built around **constraint-aware generation, conflict validation, interactive editing, and publishing workflows**.
 
-### GitHub
+`Laravel` `Next.js` `PostgreSQL` `Redis`
+
+**→ [Repository](https://github.com/imiantalha/timetable)**
+
+</td>
+<td width="50%" valign="top">
+
+### Weblogr
+
+<a href="https://github.com/imiantalha/weblogr">
+<img src="https://opengraph.githubassets.com/1/imiantalha/weblogr" alt="Weblogr" width="100%" />
+</a>
+
+A Core PHP application demonstrating **secure authentication, OAuth/OIDC + PKCE, CSRF protection, moderation, and CI validation**.
+
+`PHP` `MySQL` `OAuth/OIDC`
+
+**→ [Repository](https://github.com/imiantalha/weblogr)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Blossom Glimmer API
+
+<a href="https://github.com/imiantalha/blossom-glimmer-api">
+<img src="https://opengraph.githubassets.com/1/imiantalha/blossom-glimmer-api" alt="Blossom Glimmer API" width="100%" />
+</a>
+
+Marketplace backend focused on **authentication, RBAC, policies, service/repository architecture, request logging, queues, and testing**.
+
+`Laravel` `Sanctum` `MongoDB` `PHPUnit`
+
+**→ [Repository](https://github.com/imiantalha/blossom-glimmer-api)**
+
+</td>
+<td width="50%" valign="top">
+
+### Scientific Calculator
+
+<a href="https://github.com/imiantalha/scientific-calculator">
+<img src="https://opengraph.githubassets.com/1/imiantalha/scientific-calculator" alt="Scientific Calculator" width="100%" />
+</a>
+
+A compact Core PHP project using **server-side expression parsing and mathematical evaluation without `eval()`**.
+
+`PHP` `HTML` `CSS`
+
+**→ [Repository](https://github.com/imiantalha/scientific-calculator)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering proof
+
+| Signal | Evidence |
+|---|---|
+| **Performance** | Reduced a representative API operation from **~2–3s to ~0.5s** through indexing and query optimization. |
+| **Backend architecture** | Built versioned REST APIs with authentication, authorization, RBAC, policies, integrations, and background processing. |
+| **Async workflows** | Worked with queues, workers, scheduled jobs, webhooks, and caching for long-running or event-driven tasks. |
+| **Data systems** | Worked across **MySQL, PostgreSQL, SQL Server, and MongoDB** in database-driven applications. |
+
+---
+
+## GitHub activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imiantalha&show_icons=true&include_all_commits=true&hide_border=true&theme=default&rank_icon=github&hide_title=true" alt="GitHub statistics" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imiantalha&layout=compact&langs_count=6&hide_border=true&theme=default&hide_title=true" alt="Top languages" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imiantalha&hide_border=true&area=true&custom_title=Contribution%20activity" alt="GitHub contribution activity" width="95%" />
+</p>
+
+---
+
+## Currently focused on
+
+**Building stronger product systems** — deeper backend architecture, performance, distributed workflows, and polished React/Next.js interfaces.
+
+<br />
+
 <div align="center">
 
 **Open to Software Engineer · Backend Engineer · Laravel/PHP · Full-Stack opportunities**
 
-[Portfolio](https://imiantalha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/imiantalha/) · [GitHub](https://github.com/imiantalha)
+<a href="https://imiantalha.vercel.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/imiantalha/">LinkedIn</a>
 
 </div>
