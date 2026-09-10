@@ -2,167 +2,126 @@
 
 # Muhammad Talha
 
-### Software Engineer · Backend-first Full Stack
+### Software Engineer · PHP / Laravel · Full-Stack
 
-**PHP · Laravel · React · Next.js · REST APIs**
+Building production web applications and REST APIs across e-commerce, B2B, HR, and workflow platforms.
 
-I build production-oriented web systems where **backend architecture, data, business rules, and product UX** have to work together.
-
-<br />
-
-<a href="https://imiantalha.vercel.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/imiantalha/">LinkedIn</a> ·
-<a href="mailto:muhammadtalha.codes@gmail.com">Email</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://imiantalha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imiantalha/)
+[![Email](https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadtalha.codes@gmail.com)
 
 </div>
 
 ---
 
-## At a glance
+## What I Work On
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Backend | Frontend | Data & Infrastructure |
+| --- | --- | --- |
+| PHP · Laravel · REST APIs | React · Next.js · TypeScript · Blade | MySQL · PostgreSQL · SQL Server · MongoDB |
+| Eloquent · Authentication · RBAC · Policies | JavaScript · reusable UI | Redis · Docker · Nginx |
+| Queues · Jobs · Webhooks · Integrations | API-driven dashboards | GitHub Actions · Search · SQL optimization |
 
-**Backend**
+I focus on the parts of an application where reliability and maintainability matter: API design, business logic, authorization, database performance, third-party integrations, asynchronous workflows, testing, and production troubleshooting.
 
-Laravel · PHP · REST APIs · Authentication · RBAC · Policies · Queues · Webhooks
+## Selected Work
 
-</td>
-<td width="50%" valign="top">
+### 🛒 Mallshark
+**Multi-vendor e-commerce platform**
 
-**Frontend**
+Laravel backend supporting products, orders, payments, payouts, shipping, analytics, marketplace operations, and product search.
 
-React · Next.js · TypeScript · JavaScript · Vite · Tailwind CSS · Blade
+`Laravel` `MySQL` `REST APIs` `Meilisearch` `Stripe` `Crypto.com` `FedEx` `USPS` `ShipStation`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Performance:** Reduced a production product-detail API from **~6s to ~1.5s** across a system with approximately **6,000 products and 1,000+ users** through query optimization, eager loading, selected columns, API payload optimization, and image handling.
 
-**Data & infrastructure**
+**Search migration:** Moved product search from **Algolia to self-hosted Meilisearch**, implementing indexes, autocomplete, typo tolerance, synonyms, filters, and facets. Reduced search response time from **~3–4s to ~2–2.5s** and eliminated approximately **$100/month** in recurring search costs.
 
-MySQL · PostgreSQL · SQL Server · MongoDB · Redis · Docker · Nginx
+[Repository](https://github.com/imiantalha/mallshark)
 
-</td>
-<td width="50%" valign="top">
+### 📅 Smart Timetable
+**Constraint-aware academic scheduling platform**
 
-**How I work**
-
-API-first design · modular architecture · testing · CI/CD · performance tuning
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Smart Timetable
-
-<a href="https://github.com/imiantalha/timetable">
-<img src="https://opengraph.githubassets.com/1/imiantalha/timetable" alt="Smart Timetable" width="100%" />
-</a>
-
-A scheduling platform built around **constraint-aware generation, conflict validation, interactive editing, and publishing workflows**.
+Generates schedules, validates conflicts, supports interactive editing, and provides publishing workflows.
 
 `Laravel` `Next.js` `PostgreSQL` `Redis`
 
-**→ [Repository](https://github.com/imiantalha/timetable)**
+[Repository](https://github.com/imiantalha/timetable)
 
-</td>
-<td width="50%" valign="top">
+### 🧵 Textile Souk
+**B2B textile marketplace**
 
-### Weblogr
+API-driven marketplace covering products, orders, inquiries, shipments, cargo management, Firebase notifications, and operational workflows.
 
-<a href="https://github.com/imiantalha/weblogr">
-<img src="https://opengraph.githubassets.com/1/imiantalha/weblogr" alt="Weblogr" width="100%" />
-</a>
+`Laravel API` `Next.js` `Firebase`
 
-A Core PHP application demonstrating **secure authentication, OAuth/OIDC + PKCE, CSRF protection, moderation, and CI validation**.
+### 🧑‍💼 Employee Management System
+**HR platform**
 
-`PHP` `MySQL` `OAuth/OIDC`
+Laravel REST APIs with a Next.js/React frontend for administrative and workflow-driven operations.
 
-**→ [Repository](https://github.com/imiantalha/weblogr)**
+`Laravel` `REST APIs` `Next.js` `React` `TypeScript`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 📝 Weblogr
+**Full-stack blogging platform built with Core PHP**
 
-### Blossom Glimmer API
+Authentication, post CRUD, categories, comments, likes, search, pagination, notifications, admin moderation, and Google OAuth 2.0/OpenID Connect with PKCE.
 
-<a href="https://github.com/imiantalha/blossom-glimmer-api">
-<img src="https://opengraph.githubassets.com/1/imiantalha/blossom-glimmer-api" alt="Blossom Glimmer API" width="100%" />
-</a>
+`PHP` `MySQL` `JavaScript` `OAuth 2.0` `OpenID Connect`
 
-Marketplace backend focused on **authentication, RBAC, policies, service/repository architecture, request logging, queues, and testing**.
-
-`Laravel` `Sanctum` `MongoDB` `PHPUnit`
-
-**→ [Repository](https://github.com/imiantalha/blossom-glimmer-api)**
-
-</td>
-<td width="50%" valign="top">
-
-### Scientific Calculator
-
-<a href="https://github.com/imiantalha/scientific-calculator">
-<img src="https://opengraph.githubassets.com/1/imiantalha/scientific-calculator" alt="Scientific Calculator" width="100%" />
-</a>
-
-A compact Core PHP project using **server-side expression parsing and mathematical evaluation without `eval()`**.
-
-`PHP` `HTML` `CSS`
-
-**→ [Repository](https://github.com/imiantalha/scientific-calculator)**
-
-</td>
-</tr>
-</table>
+[Repository](https://github.com/imiantalha/weblogr)
 
 ---
 
-## Engineering proof
+## Engineering Practice
 
-| Signal | Evidence |
-|---|---|
-| **Performance** | Reduced a representative API operation from **~2–3s to ~0.5s** through indexing and query optimization. |
-| **Backend architecture** | Built versioned REST APIs with authentication, authorization, RBAC, policies, integrations, and background processing. |
-| **Async workflows** | Worked with queues, workers, scheduled jobs, webhooks, and caching for long-running or event-driven tasks. |
-| **Data systems** | Worked across **MySQL, PostgreSQL, SQL Server, and MongoDB** in database-driven applications. |
+**Architecture**  
+MVC · OOP · SOLID · Service/Repository pattern · API versioning · layered application design
+
+**Performance & data**  
+Indexing · joins · eager loading · raw SQL · query optimization · targeted caching
+
+**Async & integrations**  
+Queues · workers · scheduled jobs · webhooks · exports · notifications · payment and shipping integrations
+
+**Security & access**  
+Authentication · RBAC · policies · secure sessions · CSRF protection · OAuth/OIDC · PKCE
+
+**Testing & delivery**  
+PHPUnit · unit/feature/API testing · Postman · GitHub Actions · code review · debugging · refactoring
+
+## Professional Experience
+
+**MindBlaze Technologies — Software Engineer**  
+`Sep 2024 – Present · Lahore, Pakistan`
+
+Production Laravel development across marketplace and business applications, including backend architecture, API performance, payments, shipping, search, queues, testing, React/Next.js features, and CI/CD.
+
+**6th Sense Technologies — Junior Software Developer**  
+`Jan 2024 – Sep 2024`
+
+Developed and maintained PHP/Laravel features and REST APIs for attendance, blogging, and e-commerce applications. Promoted from PHP/Laravel Developer Intern after approximately four months.
+
+**PHP/Laravel Developer Intern — 6th Sense Technologies**  
+`Sep 2023 – Dec 2023`
+
+Worked with senior developers on Laravel features, API development, database operations, debugging, and application improvements.
 
 ---
 
-## GitHub activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imiantalha&show_icons=true&include_all_commits=true&hide_border=true&theme=default&rank_icon=github&hide_title=true" alt="GitHub statistics" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imiantalha&layout=compact&langs_count=6&hide_border=true&theme=default&hide_title=true" alt="Top languages" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imiantalha&hide_border=true&area=true&custom_title=Contribution%20activity" alt="GitHub contribution activity" width="95%" />
-</p>
-
 ---
-
-## Currently focused on
-
-**Building stronger product systems** — deeper backend architecture, performance, distributed workflows, and polished React/Next.js interfaces.
-
-<br />
 
 <div align="center">
 
-**Open to Software Engineer · Backend Engineer · Laravel/PHP · Full-Stack opportunities**
+**Open to Software Engineer · Backend Engineer · PHP/Laravel · Full-Stack opportunities**
 
-<a href="https://imiantalha.vercel.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/imiantalha/">LinkedIn</a>
+[Portfolio](https://imiantalha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/imiantalha/) · [GitHub](https://github.com/imiantalha)
 
 </div>
