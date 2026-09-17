@@ -4,7 +4,7 @@
 
 ### Software Engineer · Backend-focused Full Stack
 
-I build production web applications with PHP and Laravel, from API and database design to integrations, background processing, performance work, and full-stack delivery with React and Next.js.
+I build production web applications with PHP and Laravel, from API and database design to integrations, background processing, AI features, performance work, and full-stack delivery with React and Next.js.
 
 [Portfolio](https://imiantalha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/imiantalha/) · [GitHub](https://github.com/imiantalha)
 
@@ -20,6 +20,7 @@ I work primarily on the backend systems behind web products, with a focus on:
 - **Data & performance** — relational database design, SQL optimization, indexing, query performance, caching
 - **Security & access** — authentication, RBAC, policies, OAuth/OIDC, secure request handling
 - **Integrations & async work** — payments, shipping, webhooks, queues, jobs, notifications, scheduled processing
+- **AI applications** — integrating AI capabilities and conversational features into Laravel applications with the Laravel AI SDK
 - **Search** — production search, indexing, filtering, autocomplete, and search-engine migrations
 - **Quality & delivery** — PHPUnit, API testing, debugging, code review, CI/CD, production troubleshooting
 - **Full-stack delivery** — React, Next.js, TypeScript, and Blade when the product requires work beyond the API
@@ -52,6 +53,19 @@ API-driven workflows spanning products, orders, inquiries, shipments, cargo, not
 
 *Production work; repository is not public.*
 
+### Blossom Glimmer
+**Laravel application with authentication, RBAC, queued workflows, and AI-powered chatbot functionality**
+
+A Laravel 12 application using a service/repository architecture, Sanctum authentication, Spatie permissions, MongoDB, queued processing, and the Laravel AI SDK.
+
+`Laravel 12` `PHP` `Laravel AI SDK` `Sanctum` `Spatie` `MongoDB` `Queues`
+
+- Implemented an AI chatbot using the **Laravel AI SDK** as part of the application experience.
+- Built authenticated API workflows with role and permission management.
+- Uses service, repository, policy, and job layers for maintainable application workflows.
+
+[Repository](https://github.com/imiantalha/blossom-glimmer-api)
+
 ### Smart Timetable
 **Constraint-aware academic scheduling platform**
 
@@ -82,8 +96,8 @@ A full-stack application covering authentication, publishing, moderation, social
 
 | Backend | Frontend | Data | Infrastructure & Engineering |
 | --- | --- | --- | --- |
-| PHP · Laravel · REST APIs · Eloquent · MVC · OOP · SOLID | React · Next.js · TypeScript · JavaScript · **Blade** · Vite | MySQL · PostgreSQL · SQL Server · MongoDB · Redis | Docker · Nginx · GitHub Actions · Linux |
-| Authentication · RBAC · Policies · Queues · Jobs · Webhooks | API-driven interfaces · dashboards | SQL optimization · indexing · caching | PHPUnit · API testing · CI/CD · Search |
+| PHP · Laravel · Laravel AI SDK · REST APIs · Eloquent · MVC · OOP · SOLID | React · Next.js · TypeScript · JavaScript · **Blade** · Vite | MySQL · PostgreSQL · SQL Server · MongoDB · Redis | Docker · Nginx · GitHub Actions · Linux |
+| Authentication · RBAC · Policies · Queues · Jobs · Webhooks · AI integrations | API-driven interfaces · dashboards | SQL optimization · indexing · caching | PHPUnit · API testing · CI/CD · Search |
 
 ## Experience
 
@@ -104,7 +118,7 @@ Worked on Laravel features, API development, database operations, debugging, and
 
 ## GitHub Activity
 
-My public repositories cover production-oriented Laravel work as well as focused engineering projects in scheduling, authentication, APIs, and application architecture.
+My public repositories cover production-oriented Laravel work as well as focused engineering projects in scheduling, authentication, APIs, AI integrations, and application architecture.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imiantalha&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub activity statistics" height="165" />
