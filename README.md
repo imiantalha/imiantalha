@@ -1,20 +1,18 @@
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Muhammad Talha — Software Engineer" width="100%" />
+</p>
+
 <div align="center">
 
-# Muhammad Talha
-
-### Software Engineer · PHP / Laravel · Backend-focused Full Stack
-
-**I build production web systems, APIs, and product experiences — from database design and business logic to integrations, async processing, AI features, and the frontend.**
-
-<br />
-
-<a href="https://imiantalha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/imiantalha/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:imiantalha@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://imiantalha.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/imiantalha/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:imiantalha@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
-<br />
+<p align="center">
+  <sub>Backend systems · APIs · performance · integrations · AI · full-stack delivery</sub>
+</p>
 
 <table>
 <tr>
@@ -56,6 +54,12 @@ PHPUnit · API testing · Postman · Code review · CI/CD · Debugging
 </table>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRODUCTION_API-6s_→_1.5s-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/SEARCH_COST-~$100%2Fmo_saved-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Laravel_AI_SDK-0F172A?style=flat-square" />
+</p>
 
 ## Selected Builds
 
