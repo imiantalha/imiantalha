@@ -222,19 +222,7 @@ I focus on the engineering behind web products where **reliability, performance,
 **Software Engineer**  
 MindBlaze Technologies
 
-Sep 2024 – Present
-
-**Previously**
-
-**Junior Software Developer**  
-6th Sense Technologies
-
-Jan 2024 – Sep 2024
-
-**PHP/Laravel Developer Intern**  
-6th Sense Technologies
-
-Sep 2023 – Dec 2023
+Sep 10, 2024 — Present
 
 </td>
 </tr>
