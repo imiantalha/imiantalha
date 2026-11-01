@@ -2,285 +2,80 @@
   <img src="./assets/profile-header.svg" alt="Muhammad Talha — Software Engineer" width="100%" />
 </p>
 
-<div align="center">
-
-<a href="https://imiantalha.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/imiantalha/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:imiantalha@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
 <p align="center">
-  <sub>Backend systems · APIs · performance · integrations · AI · full-stack delivery</sub>
+  <a href="https://imiantalha.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/imiantalha/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:imiantalha@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ ENGINEERING
-
-**Backend**
-
-PHP · Laravel · REST APIs · Eloquent · MVC · OOP · SOLID
-
-**Application systems**
-
-Authentication · RBAC · Policies · Queues · Jobs · Webhooks · Integrations
-
-**Data & performance**
-
-MySQL · PostgreSQL · SQL Server · MongoDB · Redis · Indexing · Query optimization
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ FULL-STACK
-
-**Frontend**
-
-React · Next.js · TypeScript · JavaScript · **Blade** · Vite
-
-**Infrastructure**
-
-Docker · Nginx · Linux · GitHub Actions
-
-**Quality**
-
-PHPUnit · API testing · Postman · Code review · CI/CD · Debugging
-
-</td>
-</tr>
-</table>
-
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/PRODUCTION_API-6s_→_1.5s-0F172A?style=flat-square" />
-  <img src="https://img.shields.io/badge/SEARCH_COST-~$100%2Fmo_saved-0F172A?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Laravel_AI_SDK-0F172A?style=flat-square" />
+  <strong>Backend-focused Full-Stack Software Engineer</strong><br />
+  PHP · Laravel · APIs · React / Next.js · Production Engineering
 </p>
 
-## Selected Builds
+I build and improve production web applications, with a focus on backend architecture, reliable APIs, data performance, integrations, and clean full-stack delivery.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Selected Work
 
-### 🛒 Mallshark
+### 🛒 Mallshark — Multi-vendor e-commerce
+Production Laravel engineering across products, orders, payments, payouts, shipping, analytics, marketplace operations, and search.
 
-**Multi-vendor e-commerce platform**
+- **API performance:** improved product-detail response time from ~6s to ~1.5s in a system with ~6,000 products and 1,000+ users.
+- **Search migration:** moved from Algolia to self-hosted Meilisearch, reducing search response time from ~3–4s to ~2–2.5s and saving approximately $100/month.
+- **Stack:** PHP · Laravel · MySQL · Meilisearch · REST APIs
+- *Production work · Private repository*
 
-Production Laravel work across products, orders, payments, payouts, shipping, analytics, marketplace operations, and search.
+### 📅 [Smart Timetable](https://github.com/imiantalha/timetable) — Scheduling platform
+Full-stack platform for creating, validating, editing, and publishing university timetables.
 
-Laravel · MySQL · Meilisearch · REST APIs
+- Models teachers, rooms, sections, courses, and time slots as scheduling resources.
+- Includes conflict validation, generated drafts, drag-and-drop editing, and persistent scheduling changes.
+- **Stack:** Laravel · Next.js · PostgreSQL · Redis
 
-**6s → 1.5s**
+### 🤖 [Blossom Glimmer API](https://github.com/imiantalha/blossom-glimmer-api) — AI-enabled application
+Laravel application with conversational AI functionality and modular backend architecture.
 
-Product-detail API performance improvement across a system with ~6,000 products and 1,000+ users.
+- Implemented an AI chatbot using the Laravel AI SDK.
+- Built authentication, role-based access control, policies, service/repository layers, and queued workflows.
+- **Stack:** Laravel 12 · PHP · Laravel AI SDK · MongoDB
 
-**~$100/mo saved**
+### 📝 [Weblogr](https://github.com/imiantalha/weblogr) — Core PHP blogging platform
+A PHP/MySQL application covering authentication, publishing, moderation, social interactions, notifications, and Google identity integration.
 
-Migrated product search from Algolia to self-hosted Meilisearch and reduced search response time from ~3–4s to ~2–2.5s.
+- Security features include CSRF protection, login throttling, secure sessions, upload validation, and context-aware output escaping.
+- Includes layered request-to-database architecture and GitHub Actions syntax validation.
+- **Stack:** PHP · MySQL · OAuth 2.0 · OIDC · PKCE
+- [Live demo](https://weblogr.up.railway.app/)
 
-*Production work · Private repository*
+## Engineering Focus
 
-</td>
-<td width="50%" valign="top">
+- **Backend:** PHP, Laravel, REST API design, Eloquent, MVC, OOP, SOLID, authentication, RBAC, policies
+- **Data:** MySQL, PostgreSQL, SQL Server, MongoDB, Redis, indexing, query optimization, caching
+- **Async & integrations:** queues, jobs, scheduled tasks, webhooks, payments, shipping, search, notifications
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Blade, Vite
+- **Delivery:** Docker, Nginx, Linux, PHPUnit, Postman, code review, CI/CD, debugging
 
-### 📅 Smart Timetable
+## Experience
 
-**Constraint-aware scheduling platform**
+**Software Engineer · MindBlaze Technologies**  
+Sep 10, 2024 — Present
 
-Full-stack scheduling system for creating, validating, editing, and publishing university timetables.
-
-Laravel · Next.js · PostgreSQL · Redis
-
-**Scheduling engine**
-
-Models teachers, rooms, sections, courses, and time slots as explicit resources.
-
-**Interactive workflows**
-
-Conflict validation, generated drafts, drag-and-drop editing, and persistent scheduling changes.
-
-[View repository →](https://github.com/imiantalha/timetable)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Blossom Glimmer
-
-**Laravel application with AI-powered features**
-
-Laravel 12 application using service/repository architecture, Sanctum, Spatie permissions, MongoDB, queued processing, and the Laravel AI SDK.
-
-Laravel 12 · PHP · AI SDK · MongoDB
-
-**AI chatbot**
-
-Implemented conversational functionality using the Laravel AI SDK.
-
-**Application architecture**
-
-Authentication, RBAC, policies, repositories, services, and queued workflows.
-
-[View repository →](https://github.com/imiantalha/blossom-glimmer-api)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 Weblogr
-
-**Core PHP / MySQL blogging platform**
-
-Authentication, publishing, moderation, social interactions, notifications, and Google identity integration.
-
-PHP · MySQL · OAuth 2.0 · OIDC · PKCE
-
-**Security**
-
-CSRF protection, login throttling, secure sessions, upload validation, and context-aware output escaping.
-
-**Delivery**
-
-GitHub Actions syntax validation and layered request-to-database architecture.
-
-[Repository](https://github.com/imiantalha/weblogr) · [Live demo](https://weblogr.up.railway.app/)
-
-</td>
-</tr>
-</table>
-
----
-
-## Production Engineering
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### API & Architecture
-
-REST API design  
-API versioning  
-Service / Repository  
-MVC · SOLID  
-Authentication & RBAC
-
-</td>
-<td width="33%" align="center">
-
-### Performance & Data
-
-SQL optimization  
-Eager loading  
-Indexing & joins  
-Caching  
-Search & filtering
-
-</td>
-<td width="33%" align="center">
-
-### Async & Integrations
-
-Queues & workers  
-Scheduled jobs  
-Webhooks  
-Payments & shipping  
-Notifications
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-### What I Work On
-
-I focus on the engineering behind web products where **reliability, performance, maintainability, and clean application boundaries** matter.
-
-- Production Laravel APIs and business workflows
-- Payment, shipping, search, and notification integrations
-- Queue-driven background processing and scheduled workloads
-- Database and API performance optimization
-- React / Next.js interfaces backed by Laravel APIs
-- AI-powered application features using the Laravel AI SDK
-- Testing, debugging, code review, and CI/CD
-
-</td>
-<td width="35%" valign="top">
-
-### Currently
-
-**Software Engineer**  
-MindBlaze Technologies
-
-Sep 2024 – Present
-
-**Previously**
-
-**Junior Software Developer**  
-6th Sense Technologies
-
-Jan 2024 – Sep 2024
-
-**PHP/Laravel Developer Intern**  
-6th Sense Technologies
-
-Sep 2023 – Dec 2023
-
-</td>
-</tr>
-</table>
-
----
-
-## Technology Map
+## GitHub Activity
 
 <p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel_AI_SDK-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imiantalha&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imiantalha&layout=compact&hide_border=true&langs_count=8" height="170" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imiantalha&hide_border=true&area=true" alt="GitHub contribution activity" />
 </p>
 
 ---
 
-## GitHub Signal
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imiantalha&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imiantalha&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages" />
+  <strong>Let's build something useful.</strong><br />
+  <a href="https://imiantalha.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/imiantalha/">LinkedIn</a> ·
+  <a href="https://github.com/imiantalha">GitHub</a>
 </p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imiantalha&hide_border=true&area=true" alt="GitHub contribution activity" />
-</p>
-
----
-
-<div align="center">
-
-### Let's build something useful.
-
-**Software Engineer · Backend Engineer · PHP/Laravel · Full-Stack**
-
-[Portfolio](https://imiantalha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/imiantalha/) · [GitHub](https://github.com/imiantalha)
-
-</div>
