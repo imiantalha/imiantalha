@@ -9,73 +9,48 @@
 </p>
 
 <p align="center">
-  <strong>Backend-focused Full-Stack Software Engineer</strong><br />
-  PHP · Laravel · APIs · React / Next.js · Production Engineering
+  <strong>Backend Engineer · Laravel &amp; PHP</strong><br />
+  Payments · Shipping · Search · Versioned APIs for marketplaces
 </p>
 
-I build and improve production web applications, with a focus on backend architecture, reliable APIs, data performance, integrations, and clean full-stack delivery.
+I'm Muhammad Talha, a backend engineer in Lahore, Pakistan. I build the parts of marketplaces that have to work every time: checkout and payments, shipping, search, and the APIs that mobile apps depend on.
 
-## Selected Work
+🟢 **Open to backend / full-stack Laravel roles** — remote (UTC+5) or on-site/hybrid in Lahore.
 
-### 🛒 Mallshark — Multi-vendor e-commerce
-Production Laravel engineering across products, orders, payments, payouts, shipping, analytics, marketplace operations, and search.
+## What I've shipped in production
 
-- **API performance:** improved product-detail response time from ~6s to ~1.5s in a system with ~6,000 products and 1,000+ users.
-- **Search migration:** moved from Algolia to self-hosted Meilisearch, reducing search response time from ~3–4s to ~2–2.5s and saving approximately $100/month.
-- **Stack:** PHP · Laravel · MySQL · Meilisearch · REST APIs
-- *Production work · Private repository*
+Software Engineer at **MindBlaze Technologies** since Sep 2024, including **Mallshark**, a multi-vendor marketplace with **1M+ users, 200+ vendors and 6K+ products** across Middle East warehouses:
 
-### 📅 [Smart Timetable](https://github.com/imiantalha/timetable) — Scheduling platform
-Full-stack platform for creating, validating, editing, and publishing university timetables.
+- **Faster product pages:** cut a product-detail API from **~6s to ~1.5s** by profiling queries, adding indexes, eager loading and trimming payloads.
+- **Search, rebuilt:** moved from Algolia to self-hosted Meilisearch, taking search responses from **~3–4s to ~2–2.5s** and saving **~$100/month**.
+- **Payments:** Stripe, PayPal and Crypto.com with signature-verified, idempotent webhook handling.
+- **Shipping:** FedEx, USPS and ShipStation for rates, labels and tracking.
+- **API versioning:** v1–v3, so older mobile app releases keep working while new contracts evolve.
+- **Two databases, one workflow:** MySQL plus an external SQL Server for stock and customer-specific pricing.
 
-- Models teachers, rooms, sections, courses, and time slots as scheduling resources.
-- Includes conflict validation, generated drafts, drag-and-drop editing, and persistent scheduling changes.
-- **Stack:** Laravel · Next.js · PostgreSQL · Redis
+Client code is private — the [case studies](https://imiantalha.vercel.app/projects) explain the problems and the decisions.
 
-### 🤖 [Blossom Glimmer API](https://github.com/imiantalha/blossom-glimmer-api) — AI-enabled application
-Laravel application with conversational AI functionality and modular backend architecture.
+## Code you can read
 
-- Implemented an AI chatbot using the Laravel AI SDK.
-- Built authentication, role-based access control, policies, service/repository layers, and queued workflows.
-- **Stack:** Laravel 12 · PHP · Laravel AI SDK · MongoDB
+| Project | What it shows | Stack |
+|---|---|---|
+| [**Smart Timetable**](https://github.com/imiantalha/timetable) | University timetable planner: queued generation with schedule scoring, conflict detection for teacher, room and section clashes, and a Next.js drag-and-drop builder | Laravel 13 · Next.js 16 · TypeScript |
+| [**Attendance Management System**](https://github.com/imiantalha/attendance-management-system) | FormRequest → Service → API Resource layering, Sanctum API v1, RBAC with policies, PHPUnit tests and GitHub Actions CI | Laravel · MySQL |
+| [**Blossom Glimmer API**](https://github.com/imiantalha/blossom-glimmer-api) | AI chatbot built with the Laravel AI SDK, plus auth, roles and permissions, policies and queued workflows | Laravel 12 · MongoDB |
+| [**Weblogr**](https://github.com/imiantalha/weblogr) · [live demo](https://weblogr.up.railway.app/) | Auth written from scratch: Google OAuth 2.0 / OIDC with PKCE, CSRF protection, login throttling, secure sessions | PHP · MySQL |
 
-### 📝 [Weblogr](https://github.com/imiantalha/weblogr) — Core PHP blogging platform
-A PHP/MySQL application covering authentication, publishing, moderation, social interactions, notifications, and Google identity integration.
+## Toolbox
 
-- Security features include CSRF protection, login throttling, secure sessions, upload validation, and context-aware output escaping.
-- Includes layered request-to-database architecture and GitHub Actions syntax validation.
-- **Stack:** PHP · MySQL · OAuth 2.0 · OIDC · PKCE
-- [Live demo](https://weblogr.up.railway.app/)
-
-## Engineering Focus
-
-- **Backend:** PHP, Laravel, REST API design, Eloquent, MVC, OOP, SOLID, authentication, RBAC, policies
-- **Data:** MySQL, PostgreSQL, SQL Server, MongoDB, Redis, indexing, query optimization, caching
-- **Async & integrations:** queues, jobs, scheduled tasks, webhooks, payments, shipping, search, notifications
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Blade, Vite
-- **Delivery:** Docker, Nginx, Linux, PHPUnit, Postman, code review, CI/CD, debugging
-
-## Experience
-
-**Software Engineer · MindBlaze Technologies**  
-Sep 10, 2024 — Present
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imiantalha&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imiantalha&layout=compact&hide_border=true&langs_count=8" height="170" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imiantalha&hide_border=true&area=true" alt="GitHub contribution activity" />
-</p>
+- **Backend:** PHP, Laravel, REST API design, Sanctum / Passport, RBAC, queues & jobs, webhooks
+- **Data:** MySQL, SQL Server, PostgreSQL, MongoDB, Redis, Meilisearch, query optimization
+- **Frontend:** React, Next.js, TypeScript, Blade
+- **Quality & delivery:** PHPUnit, Pint, GitHub Actions, Docker, Nginx, Vercel
 
 ---
 
 <p align="center">
-  <strong>Let's build something useful.</strong><br />
-  <a href="https://imiantalha.vercel.app/">Portfolio</a> ·
+  <strong>Hiring for a Laravel backend role?</strong> I reply within a day.<br />
+  <a href="mailto:muhammadtalha.codes@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/imiantalha/">LinkedIn</a> ·
-  <a href="https://github.com/imiantalha">GitHub</a>
+  <a href="https://imiantalha.vercel.app/">Portfolio</a>
 </p>
